@@ -239,4 +239,4 @@ This repository serves as the official landing page for WinHTTrack. The software
 **Get the most recent version of WinHTTrack today!**
 
 ---
-**Last updated:** 2026-09-11 10:22:47 UTC
+**Last updated:** 2026-09-11 14:46:02 UTC
